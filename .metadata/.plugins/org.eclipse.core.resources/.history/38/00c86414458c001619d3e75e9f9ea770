@@ -1,0 +1,12 @@
+package com.learnSpring.propertyEditors;
+
+import java.beans.PropertyEditorSupport;
+
+public class StudentMobileEditor extends PropertyEditorSupport{
+	
+	@Override
+	public void setAsText(String text){
+		setValue(text.replaceAll("()-", ""));
+	}
+
+}

@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu Oct 06 23:18:21 CDT 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kaminy\\workspace\\SpringWS\\SpringMVCProject\\WebContent\\WEB-INF\\lib\\spring-web-4.2.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kaminy\\workspace\\SpringWS\\SpringMVCProject\\WebContent\\WEB-INF\\lib\\spring-web-4.2.5.RELEASE.jar=WEB-INF/lib/spring-web-4.2.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kaminy\\.m2\\repository\\org\\springframework\\spring-web\\4.3.3.RELEASE\\spring-web-4.3.3.RELEASE.jar=WEB-INF/lib/spring-web-4.3.3.RELEASE.jar
